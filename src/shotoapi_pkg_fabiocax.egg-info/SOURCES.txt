@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/shotoapi/__init__.py
+src/shotoapi_pkg_fabiocax.egg-info/PKG-INFO
+src/shotoapi_pkg_fabiocax.egg-info/SOURCES.txt
+src/shotoapi_pkg_fabiocax.egg-info/dependency_links.txt
+src/shotoapi_pkg_fabiocax.egg-info/top_level.txt
